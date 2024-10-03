@@ -1,3 +1,4 @@
+
 # Gráficos com Shadcn e Next.js
 
 Muitas vezes, a melhor forma de exibir dados é através de gráficos. E para grande parte dos casos, não é necessário que sejamos especialistas em *data science* - basta apenas que conheçamos as ferramentas certas para essa tarefa. E é exatamente isso que se tornaram algumas bibliotecas de gráficos para React - uma forma simples e rápida de construirmos gráficos dinâmicos e bonitos.
