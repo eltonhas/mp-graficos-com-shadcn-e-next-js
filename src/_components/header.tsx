@@ -11,7 +11,8 @@ export function Header() {
           Gastos dos Senadores Brasileiros
         </p>
         <p className="font-medium text-sub-heading">
-          Gastos dos senadores brasileiros total por estado (UF) - CEAPS
+          Gastos dos senadores brasileiros total{' '}
+          <span className="font-bold">por estado (UF)</span> - CEAPS
         </p>
       </div>
     </div>
